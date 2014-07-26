@@ -1,6 +1,5 @@
 ---
 title       : Relation between sex, hair and eye color
-subtitle    : ssss
 author      : Michal Kuligowski
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
